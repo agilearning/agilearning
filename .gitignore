@@ -1,0 +1,10 @@
+
+*.pyc
+.project
+.pydevproject
+agilearning.egg-info/
+build/
+dist/
+
+
+
